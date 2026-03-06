@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "name": "Demo Student",
+      "email": "demo@example.com",
+      "university": "University of Toronto",
+      "major": "Business",
+      "year": 3,
+      "gpa": 3.5,
+      "skills": ["Excel", "Marketing"],
+      "interests": ["Startups"],
+      "experience": "Previous internship experience",
+      "phone": "+1-416-555-0000"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "demo_001",
+      "title": "Demo Opportunity",
+      "company": "Example Corp",
+      "industry": "Technology",
+      "required_skills": ["Communication"],
+      "duration": "3 months",
+      "compensation": "$20/hour",
+      "description": "Demo opportunity for presentation"
+    }
+  ],
+  "mock_analysis": "This is a strong candidate with relevant experience and good academic performance. Recommended for immediate consideration."
+}
